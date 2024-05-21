@@ -1,0 +1,9 @@
+site_name: TourPagla
+nav:
+  - Home: index.md
+  - Scope: scope.md
+  - Modules: modules.md
+  - Process details: pd.md
+  - Technology: tech.md
+  - Features: feat.md
+theme: readthedocs

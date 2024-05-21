@@ -1,0 +1,42 @@
+## For Super Admin & Admin: (All features are same except all admins are controlled by superadmin)
+
+- Super admin has the ability to view, create, edit and delete all the districts.
+- Super admin has the ability to view, create, edit and delete place type.
+- Super admin can manage about section.
+- Super admin has the ability to add, edit, delete & view all the places with details.
+- Super admin has the ability to add a new guide member.
+- Super admin can edit and delete all the guide members.
+- Super admin can view all the user information.
+- Super admin has the ability to make the user as admin.
+- Super admin can view all the admin information.
+- Super admin has the ability to make an admin as a user.
+- Super admin has the ability to create a new package, view package details, edit & delete them also.
+- Super admin can change his profile information.
+- Super admin give approval pending booking requests of packages.
+- Super admin can view all pending booking lists.
+- Super admin can change the status of running packages as complete when the tour is completed.
+- Super admin can view all running packages lists.
+- Super admin can view all tour history.
+- Super admin can sign in/sign out.
+- Super admin can reset his/her password.
+## User Panel
+- Users can view all the district's information
+- User can view all the place types of information.
+- User can see the details of places.
+- User can see the guide member information.
+- Users can view the details of all the packages.
+- Users can book any package by filling up the given form.
+- User can view his pending booking request information.
+- User can cancel the pending booking request before getting admin/super admin approval.
+- User can view email notification of booking package when super admin/admin approves it.
+- User can change his profile information.
+- User can view his/her own tour history.
+- Users can sign in/sign out.
+- User can reset his/her password.
+## Guest User
+- Guest user can view the about us page.
+- Guest users can view details of amazing places.
+- Guest users can see details of amazing packages.
+- Guest user can see district wise amazing places.
+- Guest users can search for amazing places.
+- Guest users can view the details of the place type.
